@@ -1,6 +1,8 @@
 # Car-Sales-Management-System
 
-Languages used are CSS, C# and SQL Database
+Languages used are CSS, C#
+
+Database management using Microsoft SQL Server Management Studio
 
 Developed software systems testing and validation procedures
 
